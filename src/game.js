@@ -253,7 +253,7 @@ angular.module('myApp').controller('Ctrl',
 
 
     gameService.setGame({
-        gameDeveloperEmail: "jugalm9@gmail.com",
+        gameDeveloperEmail: "",
         minNumberOfPlayers: 2,
         maxNumberOfPlayers: 6,
         isMoveOk: gameLogic.isMoveOk,

@@ -767,7 +767,7 @@ angular.module('myApp', []).factory('gameLogic', function() {
 
 
     gameService.setGame({
-        gameDeveloperEmail: "jugalm9@gmail.com",
+        gameDeveloperEmail: "",
         minNumberOfPlayers: 2,
         maxNumberOfPlayers: 6,
         isMoveOk: gameLogic.isMoveOk,
